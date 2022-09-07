@@ -1,10 +1,6 @@
 # 基于SSM的在线考试管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ：**考试1**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -77,11 +73,4 @@
 
 ![教师-以往考试信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131308517.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**考试1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
